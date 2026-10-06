@@ -1,3 +1,5 @@
+import javax.swing.*;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -7,6 +9,10 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("Hello and welcome!");
         System.out.println("Hello and welcome!");
-        System.out.println("Hello and welcome!");
+        JOptionPane.showMessageDialog(null,"hoal");
+        JOptionPane.showMessageDialog(null,"hoal");
+        JOptionPane.showMessageDialog(null,"hoal");
+        JOptionPane.showMessageDialog(null,"hoal");
+        JOptionPane.showMessageDialog(null,"hoal");
         }
     }
