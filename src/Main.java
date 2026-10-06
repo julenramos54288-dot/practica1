@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Hello !");
         System.out.println("Hello and !");
         System.out.println("Hello  welcome!");
-        System.out.println("welcome!");;
+        System.out.println("welcome !");;
         JOptionPane.showMessageDialog(null,"hoal");
         JOptionPane.showMessageDialog(null,"hoal");
         JOptionPane.showMessageDialog(null,"hoal");
